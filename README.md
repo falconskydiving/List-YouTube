@@ -9,3 +9,8 @@ pyinstaller .\main.py --hidden-import=pkg_resources.py2_warn --onefile --noconso
 ```
 https://stackoverflow.com/questions/33983860/hide-chromedriver-console-in-python
 ```
+- demo screencast
+
+
+https://user-images.githubusercontent.com/61609164/146117428-8fa91863-e1f5-4dc2-b518-172a4db07538.mp4
+
